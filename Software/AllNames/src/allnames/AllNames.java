@@ -12,7 +12,7 @@ public class AllNames {
         
         // kommentar
         myset.add(Andreas.getName());
-        
+        System.out.println("hallo");
         for(String s : myset) {
             System.out.println(s);
         }
